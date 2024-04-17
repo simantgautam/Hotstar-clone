@@ -1,5 +1,5 @@
 # Demo
-https://hotstar-tawny.vercel.app/
+https://hotstar-clone-khaki.vercel.app/
 
 # Getting Started with Create React App
 
